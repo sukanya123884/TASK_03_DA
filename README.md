@@ -4,4 +4,4 @@
 # Now, in [query.ipynb], I have done all the sql queries.
 # Finally, I save my notebook and exported it as a html file [query.html] for user friendly view. 
 # One can see sql queries in either the ipynb file or the html file. But it is preferred to see the 
-ipynb file. One can view html file. You can Download it and run in your web Browser. 
+# ipynb file. One can view html file. You can Download it and run in your web Browser. 
