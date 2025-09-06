@@ -3,4 +3,5 @@
 # In [install_sql.ipynb], I have installed necessary libraries and created a sql database, where I uploaded my csv file as name 'superstore'.
 # Now, in [query.ipynb], I have done all the sql queries.
 # Finally, I save my notebook and exported it as a html file [query.html] for user friendly view. 
-# One can see sql queries in either the ipynb file or the html file.
+# One can see sql queries in either the ipynb file or the html file. But it is preferred to see the 
+ipynb file. One can view html file. You can Download it and run in your web Browser. 
